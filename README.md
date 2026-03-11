@@ -6,4 +6,4 @@ https://leonidas-ramos-moralescp.github.io/
 
 Además comparto una serie de tutotiales de como hacer estas visualizaciones: 
 
-Visualización del índice de Felicidad de Power Bi: https://www.youtube.com/watch?v=poiYsENALzs 
+Visualización del Índice de Felicidad utilizando Power Bi: https://www.youtube.com/watch?v=poiYsENALzs 
